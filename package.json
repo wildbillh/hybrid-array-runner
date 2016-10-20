@@ -27,9 +27,11 @@
     "url": "https://github.com/wildbillh/hybrid-array-runner"
   },
   "dependencies": {
-    "chai": "^3.5.0",
-    "jsdoc": "^3.4.2",
     "parallel-array-runner": "^1.0.0",
     "serialized-array-runner": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jsdoc": "^3.4.2"
   }
 }
