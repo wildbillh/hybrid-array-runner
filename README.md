@@ -1,9 +1,7 @@
 #HybridArrayRunner
+[![npm version](https://badge.fury.io/js/hybrid-array-runner.svg)](https://badge.fury.io/js/hybrid-array-runner)
 
-_A promise enabled, ES6 Class for applying array elements to an asynchronous function (returning Promises).
-The given array is sliced into buckets. The size of each bucket is determined by the threads parameter.
-The contents of each bucket is operated in parallel. Successive buckets are operated on in series, until
-the array is depleted._  
+_A promise enabled, ES6 Class for applying array elements to an asynchronous function (returning Promises)._  
 
 ##Synopsis
 
