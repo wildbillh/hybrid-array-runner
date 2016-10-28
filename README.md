@@ -1,5 +1,5 @@
 #HybridArrayRunner
-[![npm version](https://badge.fury.io/js/hybrid-array-runner.svg)](https://badge.fury.io/js/hybrid-array-runner)
+[![Build Status](https://travis-ci.org/wildbillh/hybrid-array-runner.svg?branch=master)](https://travis-ci.org/wildbillh/hybrid-array-runner)[![Inline docs](http://inch-ci.org/github/wildbillh/hybrid-array-runner.svg?branch=master)](http://inch-ci.org/github/wildbillh/hybrid-array-runner)[![npm version](https://badge.fury.io/js/hybrid-array-runner.svg)](https://badge.fury.io/js/hybrid-array-runner)
 
 _A promise enabled, ES6 Class for applying array elements to an asynchronous function (returning Promises)._  
 
